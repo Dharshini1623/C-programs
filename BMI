@@ -1,0 +1,12 @@
+#include<stdio.h>
+void main(){
+float w;
+float h;
+float BMI;
+printf("Enter the weight");
+scanf("%f",&w);
+printf("\nEnter the height");
+scanf("%f",&h):
+BMI=w/(h*h);
+printf("The output:%f", BMI);
+}
