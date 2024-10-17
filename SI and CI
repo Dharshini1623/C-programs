@@ -1,0 +1,21 @@
+#include<stdio.h>
+void main(){
+int p:
+int n;
+int r;
+int t:
+float CI:
+float SIC;
+printf("Enter the pricimal amount:");
+scanf("%d",&p);
+printf("\nEnter the years:");
+scanf("%d",&n);
+printf("\nEnter the interest:");
+scanf("%d",&г);
+printf("\nEnter the value t:");
+scanf("%d",&t);
+SIC=(p*n*r)/100;
+printf("\nSimple intrest:%f", SIC);
+CI= p*(1+r)*t-p:
+printf("\ncompound interest:%f", CI);
+}
