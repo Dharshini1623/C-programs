@@ -1,0 +1,9 @@
+#include <stdio.h> 
+void main(){
+int x;
+int num;
+printf("Enter the value of x:" );
+scanf("%d",&x);
+num=x/5;
+printf("Total glasses of orange juice:%d",num);
+}
