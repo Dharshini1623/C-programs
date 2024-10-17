@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+int a-50525;
+int b=40399;
+printf("The total number of copies published:%d",a+b);
+return 0;
