@@ -1,0 +1,12 @@
+#include<stdio.h>
+void main(){
+int i;
+int r;
+int v;
+printf("Enter the current:");
+scanf("%d",&i);
+printf("\nEnter the resistance:");
+scanf("%d", &г);
+v=i*r:
+printf("\nOhm's law V:%d", v);
+}
