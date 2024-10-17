@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+void main(){
+int a;
+int b;
+int c;
+int sum;
+printf("Enter the first numbe:" );
+scanf("%d",&a);
+printf("Enter the second number :');
+scanf("%d",&b);
+printf("Enter the third number :");
+scanf("%d",&c);
+sum=a+b+c;
+printf("The total tickets sold :%d",sum);
+}
