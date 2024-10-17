@@ -1,0 +1,10 @@
+#include <stdio.h>
+void main()
+{
+int x;
+int row;
+printf("Enter the value of x:" );
+scanf("%d",&x);
+row=108/x;
+printf("Seats per row:%d", row);
+}
