@@ -1,0 +1,18 @@
+#include <stdio.h>
+void main() {
+int a=23;
+int b=16;
+int c=10;
+if(a>b&&a>c)
+   {
+     printf("The greatest number :%d",a);
+   }
+else if(b>c)
+   {
+     printf("The greatest number :%d",b);
+   }
+else
+   {
+     printf("The greatest number :%d",c);
+   }
+}
