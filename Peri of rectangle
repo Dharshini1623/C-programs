@@ -1,0 +1,12 @@
+#include<stdio.h>
+void main(){
+int l;
+int w
+int peri;
+printf("Enter the length:");
+scanf("%d",&1);
+printf("\nEnter the width:");
+scanf("%d",&w);
+peri=2*(1+w);
+printf("\nPerimeter of rectangle is:%d", peri);
+}
